@@ -299,6 +299,13 @@ body {
   margin-bottom: 0px;
   color: white;
 }
+
+.box .content .heading2 {
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  color: white;
+}
 .box .content small {
   color: white;
 }
@@ -333,6 +340,7 @@ body {
   text-decoration: none;
   border-radius: 5px;
   color: white;
+  font-size: 12px;
 }
 
 .c2 {
@@ -377,7 +385,11 @@ body {
 }
 
 .skills img {
-width: 35px;
+  width: 35px;
+}
+
+.skills .imagen {
+  width: 40px;
 }
 
 .skills-group {
